@@ -8,7 +8,7 @@ Pol Serra i Cargol
 Maig de 2023
 
 
-![Cultura Digital](https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_ab7145d56f06b7a65fd8b875ebfeb049/garageband.jpg)![image](https://github.com/polsc24/PAC3_Manovich_Reloaded/assets/101104678/f238a67b-2eb6-481b-9a23-6d2a2af7ade9)
+![Cultura Digital](https://www.nicepng.com/png/detail/139-1393764_garage-band-png-garage-band-logo-png.png)![image](https://github.com/polsc24/PAC3_Manovich_Reloaded/assets/101104678/f238a67b-2eb6-481b-9a23-6d2a2af7ade9)
 
 
 
