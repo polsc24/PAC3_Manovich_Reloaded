@@ -8,7 +8,7 @@ Pol Serra i Cargol
 Maig de 2023
 
 
-![Cultura Digital](https://www.nicepng.com/png/detail/139-1393764_garage-band-png-garage-band-logo-png.png)![image](https://github.com/polsc24/PAC3_Manovich_Reloaded/assets/101104678/f238a67b-2eb6-481b-9a23-6d2a2af7ade9)
+![Cultura Digital](https://soymultimedia.com/wp-content/uploads/2015/09/analisis-el-lenguaje-de-los-nuevos-medios-de-comunicacion-lev-manovich.jpg)
 
 
 
