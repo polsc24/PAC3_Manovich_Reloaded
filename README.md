@@ -8,7 +8,7 @@ Pol Serra i Cargol
 Maig de 2023
 
 
-![Cultura Digital](https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_ab7145d56f06b7a65fd8b875ebfeb049/garageband.jpg)) 
+![Cultura Digital](https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_ab7145d56f06b7a65fd8b875ebfeb049/garageband.jpg)
 
 
 
