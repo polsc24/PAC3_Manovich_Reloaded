@@ -8,7 +8,7 @@ Pol Serra i Cargol
 Maig de 2023
 
 
-![Cultura Digital](https://soymultimedia.com/wp-content/uploads/2015/09/analisis-el-lenguaje-de-los-nuevos-medios-de-comunicacion-lev-manovich.jpg)
+![Cultura Digital](https://www.teleinfo.mx/wp-content/uploads/2023/03/servidor-digital-sala-grunge.jpg)
 
 
 
