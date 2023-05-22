@@ -25,13 +25,15 @@ La hibridació és un procés pel qual es
 
 ## Re-descobrint la hibridació: Garage Band
 
-![Cultura Dgital](https://i0.wp.com/www.alphr.com/wp-content/uploads/2020/01/How-to-Add-Echo-in-Garageband.jpg?fit=1000%2C563&ssl=1)
+![Garage Band](https://i0.wp.com/www.alphr.com/wp-content/uploads/2020/01/How-to-Add-Echo-in-Garageband.jpg?fit=1000%2C563&ssl=1)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 
 ## Re-descobrint la hibridació: Google Drive
+
+![Google Drive](https://imagenes.20minutos.es/files/image_990_v3/files/fp/uploads/imagenes/2022/01/04/google-drive.r_d.820-462.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
