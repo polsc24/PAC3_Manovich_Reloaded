@@ -1,4 +1,4 @@
-# PAC 3: VISIONANT EL FUTUR AMB LES ULLERES DE MANOVICH
+# PAC 3: Visionant el futur amb les ulleres de Manovich
 
 ### Cultura Digital - Universitat Oberta de Catalunya
 
