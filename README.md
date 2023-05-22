@@ -36,8 +36,6 @@ Actualment, les funcionalitats del programa són múltiples, i cada vegada s’h
 
 Dins l’aspecte de les capacitats aprofitades a partir de la hibridació, **Garage Band** gaudeix d’una funcionalitat molt aclamada per la societat: la capacitat de tocar diferents instruments musicals, de tots tipus, i poder-los gravar i editar posteriorment per tal d’incorporar-los a una nova peça de creació musical. 
 
-![image](https://github.com/polsc24/PAC3_Manovich_Reloaded/assets/101104678/96d8a9a8-daea-4ad2-a7be-a1870c9b45e4)
-
 
 
 
