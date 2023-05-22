@@ -20,7 +20,7 @@ En un món frenètic i canviant cada vegada a una velocitat més extraorbitant, 
 
 
 
-La hibridació és un procés pel qual es 
+La hibridació és un procés pel qual es fusionen diferents mitjans, per la qual cosa, el mitjà resultant adopta diverses característiques de procedències diverses. 
 
 
 ## Re-descobrint la hibridació: Garage Band
