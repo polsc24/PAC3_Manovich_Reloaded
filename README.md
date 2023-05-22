@@ -18,8 +18,6 @@ Maig de 2023
 
 En un món frenètic i canviant cada vegada a una velocitat més extraorbitant, ens posarem les ulleres del gran teòric sobre nous mitjans, **Lev Manovich**, i buscarem una explicació i una mica de sentit a dos exemples d'aplicatius que han incorporat la hibridació del seu format al llarg de la seva història.
 
-
-
 La hibridació és un procés pel qual es fusionen diferents mitjans, per la qual cosa, el mitjà resultant adopta diverses característiques de procedències diverses. 
 
 
@@ -45,4 +43,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Llicència: Material Creative Commons desenvolupat sota llicència CC BY-SA 4.0.
