@@ -57,7 +57,17 @@ Així mateix, **Garage Band** incorpora una interfície en la qual es barreja el
 
 ![Google Drive](https://imagenes.20minutos.es/files/image_990_v3/files/fp/uploads/imagenes/2022/01/04/google-drive.r_d.820-462.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+El següent exemple d’hibridació és el de la plataforma **Google Drive**. L’aplicatiu desenvolupat per Google consisteix en un espai inicialment desenvolupat per a guardar arxius informàtics, com documents o programes al núvol. Es va llançar al mercat l’any 2012, i va deixar enrere l’anterior programa Google Docs, que consistia només amb la possibilitat de crear documents de text, i ho incorporava coma una de les seves funcions, així com les presentacions i els fulls de càlcul.
+
+La hibridació que trobem al servei d’allotjament d’arxius de **Google Drive** és múltiple, tant aportant diverses característiques que provenen de la tradicionalitat, de la forma amb la qual durant anys hem estat guardant els arxius, i una altra, provinent dels mitjans de col·laboració.
+
+**Google Drive** té la capacitat d’organitzar els arxius de la forma com sempre s’havia fet: documents de text, imatges en format d’imatge (com si fossin fotografies impreses en paper fotogràfic, per exemple), i carpetes on poder incorporar-hi tota aquesta mena d’arxius. Aquesta hibridació de mitjans fa que tots els usuaris que utilitzin **Google Drive** tinguin una gran facilitat per a navegar per la seva interfície, i els espais i funcionalitats els siguin coneguts. També es poden destacar, canviar de lloc, posar etiquetes, canviar de nom o esborrar els continguts, tal i com podríem executar-ho amb arxius físics, o bé en les interfícies dels ordinadors.
+
+**Google Drive** també té la capacitat de col·laboració en els seus arxius i carpetes, les quals podem compartir amb diverses persones i podem editar els documents de text, presentacions i fulls de càlcul de forma instantània. Això permet poder treballar alhora en una mateixa feina, i poder deslliurar-se d’una reunió gairebé obligatòria per a poder col·laborar conjuntament en un treball, i poder observar el que ha escrit o canviat una altra persona. Això sol ser molt present en els documents de Google, ja que aquests documents són una representació d’un full de tipus A4, en el qual hi podem escriure, incorporar imatges, taules, o bé inserir-hi altres tipus de continguts.
+
+Poc a poc, **Google Drive** ha anat passant de ser una eina d’emmagatzematge d’arxius a un espai on hi regna la col·laboració, i ser un referent per a estudiants, usuaris i empreses per a treballar en equip en diferents projectes i treballs. La plataforma ha anat incorporant eines com el Jamboard, el Google Meet o d’altres similars, complements que fan que tot l’ecosistema pugui gaudir d’una màxima experiència de treball en equip col·laboratiu i a distància, en el qual l’espai principal sigui **Google Drive** i els usuaris tinguin diverses facilitats per tal de poder gestionar la feina a la perfecció. 
+
+
 
 
 ### Referències i fonts consultades
