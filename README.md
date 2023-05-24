@@ -72,7 +72,10 @@ Poc a poc, **Google Drive** ha anat passant de ser una eina d’emmagatzematge d
 
 ### Referències i fonts consultades
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Anovo (2021). Garage Band, qué es y para qué sirve esta app [https://www.anovo.es/garageband-que-es-y-para-que-sirve-esta-app/]
+* Mesa, César (2021). La historia de Google Drive, qué es y cómo funciona. [https://cesarmesa.com.co/la-historia-de-google-drive-que-es-y-como-funciona/]
+
 
 
 ----
