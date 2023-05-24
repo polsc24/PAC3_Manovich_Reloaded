@@ -34,7 +34,19 @@ Des del seu llançament, **Garage Band** s’ha anat incorporant progressivament
 Actualment, les funcionalitats del programa són múltiples, i cada vegada s’han anat incorporant més apartats i característiques que fan, d’aquesta plataforma, un espai molt divers i amb un gran ventall de possibilitats. 
 
 
-Dins l’aspecte de les capacitats aprofitades a partir de la hibridació, **Garage Band** gaudeix d’una funcionalitat molt aclamada per la societat: la capacitat de tocar diferents instruments musicals, de tots tipus, i poder-los gravar i editar posteriorment per tal d’incorporar-los a una nova peça de creació musical. 
+Dins l’aspecte de les capacitats aprofitades a partir de la hibridació, **Garage Band** gaudeix d’una funcionalitat molt aclamada per la societat: la capacitat de tocar diferents instruments musicals, de tots tipus, i poder-los gravar i editar posteriorment per tal d’incorporar-los a una nova peça de creació musical.
+
+Aquesta funcionalitat, aprofita el que sempre ha estat la experiència de tocar un instrument musical de forma física i tangible, amb l’instrument a les mans, agafant-ne els costums, formes de tocar-lo i formes com poden sonar els diferents instruments, però ho trasllada a la pantalla, tant tàctil com a través de les tecles de l’ordinador, i fa que la experiència sigui completament novedosa i única. 
+
+
+Garage Band té la capacitat de fer que, com a usuaris, puguem aprendre a tocar els instruments, de forma que, sense tenir-lo físicament, puguem obtenir lliçons introductòries completament fàcils i intuïtives, de forma que sense la necessitat de tenir l’instrument físicament puguem saber si ens agradaria aprendre a tocar-lo o no. Això permet que, a través d’aquesta gran hibridació de mitjans, puguem tenir al nostre abast desenes d’instruments i formes de creació musical.
+
+
+Així mateix, Garage Band incorpora una interfície en la qual es barreja els sons i la programació de la interfície, creant diferents formes de com entenem la interacció amb el dispositiu que estem utilitzant. Per exemple, si toquem més ràpid, o més lent, el so que ens donarà el programa com a resposta de la interacció serà diferent en els dos casos. Això ens permet poder tenir una major experimentació dins de la plataforma, i poder ser més creatius en les produccions musicals escollides.
+
+
+![image](https://github.com/polsc24/PAC3_Manovich_Reloaded/assets/101104678/26353c1e-4e0a-4d87-bfa4-e5bced8405c2)
+
 
 
 
