@@ -44,7 +44,7 @@ Aquesta funcionalitat, aprofita el que sempre ha estat la experiència de tocar 
 
 Així mateix, **Garage Band** incorpora una interfície en la qual es barreja els sons i la programació de la interfície, creant diferents formes de com entenem la interacció amb el dispositiu que estem utilitzant. Per exemple, si toquem més ràpid, o més lent, el so que ens donarà el programa com a resposta de la interacció serà diferent en els dos casos. Això ens permet poder tenir una major experimentació dins de la plataforma, i poder ser més creatius en les produccions musicals escollides.
 
-**Garage Band** també ens permet colaborar i poder exportar aquests projectes de creació musical, així com traslladar-los a un espai més físic, tenint la possibilitat de connectar un teclat MIDI per a poder continuar la producció des d'un espai tangible. Així doncs, **Garage Band** ens permet ser flexibles i poder connectar amb l'espai de creació musical físic (en el cas que el tinguem disponible). Si no, també permet a tots els usuaris, des del nivell més baix fins als més professionals, poder experimentar i seguir amb les seves produccions.
+**Garage Band** també ens permet col·laborar i poder exportar aquests projectes de creació musical, així com traslladar-los a un espai més físic, tenint la possibilitat de connectar un teclat MIDI per a poder continuar la producció des d'un espai tangible. Així doncs, **Garage Band** ens permet ser flexibles i poder connectar amb l'espai de creació musical físic (en el cas que el tinguem disponible). Si no, també permet a tots els usuaris, des del nivell més baix fins als més professionals, poder experimentar i seguir amb les seves produccions.
 
 
 
