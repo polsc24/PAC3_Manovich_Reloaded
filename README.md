@@ -67,6 +67,9 @@ La hibridació que trobem al servei d’allotjament d’arxius de **Google Drive
 
 Poc a poc, **Google Drive** ha anat passant de ser una eina d’emmagatzematge d’arxius a un espai on hi regna la col·laboració, i ser un referent per a estudiants, usuaris i empreses per a treballar en equip en diferents projectes i treballs. La plataforma ha anat incorporant eines com el Jamboard, el Google Meet o d’altres similars, complements que fan que tot l’ecosistema pugui gaudir d’una màxima experiència de treball en equip col·laboratiu i a distància, en el qual l’espai principal sigui **Google Drive** i els usuaris tinguin diverses facilitats per tal de poder gestionar la feina a la perfecció. 
 
+## Conclusions
+
+Des del pensament de **Manovich**, tant **Google Drive** com **Garage Band** són dos conceptes que podem veure com han anat evolucionant i esdevenint el producte que són gràcies a la hibridació entre mitjans, així com d’obtenir diverses característiques extretes d’àmbits molt diferents en els quals són immersos. 
 
 
 
